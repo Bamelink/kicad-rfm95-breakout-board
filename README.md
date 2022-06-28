@@ -23,3 +23,7 @@ Move the position file from the geber folder to the main project folder, open a 
 jlc-kicad-tools .
 ```
 Zip the gerber folder and now you have the new files ready for JLCPCB.
+
+# HINT
+The signal trace of the RFM Chip is set to 50+10% Ohms impedance for FR4 material and 1.6 mm board thickness. 
+Use e.g. [impedance calulator](https://www.leleivre.com/rf_microstrip.html) for calulate the impedance.
