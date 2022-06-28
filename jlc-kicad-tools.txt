@@ -1,0 +1,8 @@
+If you want to get this PCB from JLCPCB, install jlc-kicad-tools:
+pip install git+https://github.com/matthewlai/JLCKicadTools
+
+Export the gerber, position and BOM, then type into the commandline:
+jlc-kicad-tools .
+
+
+Ref: https://github.com/matthewlai/JLCKicadTools
