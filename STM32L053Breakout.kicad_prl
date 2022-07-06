@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffdfdff_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffdffff_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
-    "filename": "kicad_rfm95_breakout_board_V4.kicad_prl",
+    "filename": "STM32L053Breakout.kicad_prl",
     "version": 3
   },
   "project": {

@@ -53,6 +53,11 @@
           "gap": 0.0,
           "via_gap": 0.0,
           "width": 0.0
+        },
+        {
+          "gap": 0.3,
+          "via_gap": 0.5,
+          "width": 0.3
         }
       ],
       "drc_exclusions": [],
@@ -103,17 +108,17 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.19999999999999998,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_to_hole": 0.254,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_via_annular_width": 0.13,
+        "min_via_diameter": 0.7,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
@@ -121,11 +126,12 @@
       "track_widths": [
         0.0,
         0.2,
+        0.25,
         0.3,
         0.4,
         0.5,
         0.7,
-        2.5
+        0.75
       ],
       "via_dimensions": [
         {
@@ -147,11 +153,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|2184400|609600|da8d34f9-bb44-4111-8f98-94b3fbb71062|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|2387600|457200|3e88060a-dee5-417c-a19a-4089347d5df7|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|596900|292100|bce9ca7e-12b5-443b-9844-e073ca6c7d57|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -346,7 +348,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -360,7 +362,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RFM_STM_Breakout.kicad_pro",
+    "filename": "STM32L053Breakout.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -439,7 +441,7 @@
   },
   "sheets": [
     [
-      "09420d69-5d48-4c5f-88d6-13f3a9304df4",
+      "bf9d79a5-8841-46f3-85d0-4dbdf1a1cdfe",
       ""
     ]
   ],
