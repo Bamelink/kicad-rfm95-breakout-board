@@ -25,5 +25,5 @@ jlc-kicad-tools .
 Zip the gerber folder and now you have the new files ready for JLCPCB.
 
 # HINT
-The signal trace of the RFM Chip is set to 50+10% Ohms impedance for FR4 material and 1.6 mm board thickness. 
-Use e.g. [impedance calulator](https://www.leleivre.com/rf_microstrip.html) for calulate the impedance.
+The CPW signal trace of the RFM Chip to is set to 50+5% Ohms impedance for FR4 material and 1.6 mm board thickness. The distance between signal and GND top plane is set to 0.2 mm.
+Use e.g. [ CPW impedance calulator](https://chemandy.com/calculators/coplanar-waveguide-with-ground-calculator.htm) for calulate the impedance.
