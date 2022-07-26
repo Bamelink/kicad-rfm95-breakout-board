@@ -2,7 +2,7 @@ If you want to get this PCB from JLCPCB, install jlc-kicad-tools:
 pip install git+https://github.com/matthewlai/JLCKicadTools
 
 Export the gerber, position and BOM, then type into the commandline:
-jlc-kicad-tools .
+jlc-kicad-tools -n STM32L053Breakout .
 
 
 Ref: https://github.com/matthewlai/JLCKicadTools
