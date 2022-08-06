@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\janbr\Desktop\KiCad Projects\kicad_rfm95_breakout_board\STM32L053Breakout.kicad_sch</source>
-    <date>26.07.2022 12:15:51</date>
+    <date>06.08.2022 17:39:20</date>
     <tool>Eeschema (6.0.6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -27,8 +27,11 @@
     <comp ref="C100">
       <value>22u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C59461</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C59461"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -37,8 +40,11 @@
     <comp ref="C101">
       <value>22u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C59461</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C59461"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -47,8 +53,11 @@
     <comp ref="C200">
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C96446</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C96446"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -57,8 +66,11 @@
     <comp ref="C201">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -67,8 +79,11 @@
     <comp ref="C202">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -77,8 +92,11 @@
     <comp ref="C203">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -87,8 +105,11 @@
     <comp ref="C204">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -97,8 +118,11 @@
     <comp ref="C205">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C15849</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C15849"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -107,8 +131,11 @@
     <comp ref="C206">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C15849</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C15849"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -117,8 +144,11 @@
     <comp ref="C207">
       <value>10n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C15195"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -127,8 +157,11 @@
     <comp ref="C400">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -137,8 +170,11 @@
     <comp ref="C401">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -147,8 +183,11 @@
     <comp ref="C402">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -157,8 +196,11 @@
     <comp ref="C500">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -167,8 +209,11 @@
     <comp ref="C501">
       <value>10p</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C32949</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C32949"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -177,8 +222,11 @@
     <comp ref="C502">
       <value>10p</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C32949</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C32949"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -188,10 +236,10 @@
       <value>10u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C85713</field>
+        <field name="LCSC Part #">C96446</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value="C85713"/>
+      <property name="LCSC Part #" value="C96446"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -201,10 +249,10 @@
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C60474</field>
+        <field name="LCSC Part #">C307331</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value="C60474"/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -214,10 +262,10 @@
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
       <fields>
-        <field name="LCSC Part #">C60474</field>
+        <field name="LCSC Part #">C307331</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value="C60474"/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -226,8 +274,11 @@
     <comp ref="C800">
       <value>1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C15849</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C15849"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -236,8 +287,11 @@
     <comp ref="C801">
       <value>100n</value>
       <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C307331</field>
+      </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C307331"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -373,7 +427,11 @@
     <comp ref="J5">
       <value>ARM 10pin</value>
       <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC Part #">C239059</field>
+      </fields>
       <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC Part #" value="C239059"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -495,8 +553,11 @@
     <comp ref="R100">
       <value>1k5</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C22843</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C22843"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -505,8 +566,11 @@
     <comp ref="R400">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C21190</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -515,8 +579,11 @@
     <comp ref="R401">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C21190</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -525,8 +592,11 @@
     <comp ref="R402">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C21190</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -535,8 +605,11 @@
     <comp ref="R403">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C21190</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C21190"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -545,8 +618,11 @@
     <comp ref="R404">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C25804"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -555,8 +631,11 @@
     <comp ref="R405">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C25804"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -565,8 +644,11 @@
     <comp ref="R406">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C25804"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -575,8 +657,11 @@
     <comp ref="R500">
       <value>10k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC Part #">C25804</field>
+      </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
-      <property name="LCSC Part #" value=""/>
+      <property name="LCSC Part #" value="C25804"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="STM32L053Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
