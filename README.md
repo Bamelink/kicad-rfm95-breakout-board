@@ -6,6 +6,10 @@ This project is a PCB containing the RFM95 868MHz LoRa Chip and a low power STM3
 
 <img src="https://pngroyale.com/wp-content/uploads/2022/02/warning-sign-attention-warning-exclamation-mark-vector-graph.png" width="30">**CAREFUL:** Neither the schematic, nor the pcb layout has been validated! Please check yourself before using / producing this!
 
+## Things to change for Rev 2.0:
+- Make SWD connecter to 2.54mm so Jumpers can fit.
+- Get USB to work or better use a USB to UART bridge for Serial communication via USB and programming
+
 ## Exporting for JLCPCB
 ### Generate Files
 Open KiCad. In the PCB view, click on File -> Plot -> Generate Drill Files...\
